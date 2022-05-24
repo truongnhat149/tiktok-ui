@@ -18,3 +18,4 @@
 -   Dựng base
 -   Dựng layout component
 -   Router
+-   Xây dựng UI header
